@@ -4528,7 +4528,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "amp_new_big:SOIC127P600X175-14N"
 			(at 124.46 88.9 0)
 			(effects
 				(font
@@ -4809,7 +4809,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:TL074")
 		(at 156.21 91.44 0)
-		(unit 4)
+		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4832,7 +4832,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "amp_new_big:SOIC127P600X175-14N"
 			(at 154.94 88.9 0)
 			(effects
 				(font
@@ -4905,7 +4905,7 @@
 			(project "EOG Chip"
 				(path "/3b24f0de-bb9a-4c55-8f2f-94868eba9d38"
 					(reference "U3")
-					(unit 4)
+					(unit 3)
 				)
 			)
 		)
@@ -5003,7 +5003,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "amp_new:SOP65P490X110-8N"
 			(at 76.2 91.44 0)
 			(effects
 				(font
@@ -5567,7 +5567,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "amp_new:SOP65P490X110-8N"
 			(at 76.2 48.26 0)
 			(effects
 				(font
@@ -5723,7 +5723,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "amp_new_big:SOIC127P600X175-14N"
 			(at 124.46 45.72 0)
 			(effects
 				(font
@@ -6222,7 +6222,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:TL074")
 		(at 156.21 48.26 0)
-		(unit 3)
+		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -6245,7 +6245,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "amp_new_big:SOIC127P600X175-14N"
 			(at 154.94 45.72 0)
 			(effects
 				(font
@@ -6318,7 +6318,7 @@
 			(project "EOG Chip"
 				(path "/3b24f0de-bb9a-4c55-8f2f-94868eba9d38"
 					(reference "U3")
-					(unit 3)
+					(unit 4)
 				)
 			)
 		)
