@@ -5297,7 +5297,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "antenna_ghz:ANTC3216X60N"
 			(at 287.02 52.07 0)
 			(effects
 				(font
@@ -6177,7 +6177,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "new_crystal:ABM11A32000MHZD2YT3"
 			(at 274.32 55.88 0)
 			(effects
 				(font
@@ -6349,7 +6349,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BUMPLESS_CSP_2025"
+		(property "Footprint" "a_rf_module:BUMPLESS_CSP_2025"
 			(at 311.15 59.69 0)
 			(effects
 				(font
